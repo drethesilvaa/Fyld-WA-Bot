@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(npx jest *)",
+      "Bash(Get-Content \"C:\\\\Users\\\\ANDRSI~1\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-Andr-Silva-Documents-repos-Fyld-WA-Bot\\\\3e2b0702-47ee-45c0-9c0b-c934d73902aa\\\\tasks\\\\b7b71gh2g.output\" -Wait)",
+      "Bash(Select-String -Pattern \"Tests:|PASS|FAIL|Error|✓|✗|●\" --SimpleMatch)",
+      "Bash(npm uninstall *)"
+    ]
+  }
+}
